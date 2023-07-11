@@ -189,3 +189,20 @@ font-weight: 700;
     margin-top: 50px;
 }
 }
+/* footer style
+ */
+ .social-links a{margin-right: 5px;
+
+ }
+ footer{display: flex;}
+ .contact input[type="text"], .contact input[type="email" ], textarea{
+    display: block;
+    margin-bottom: 25pxs;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: white;
+    border: 0
+    ;
+    width: 100%;
+ }
